@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Mini Pokédex (debug)",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "Mini Pokédex (release)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    }
+  ]
+}
